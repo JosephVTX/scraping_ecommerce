@@ -1,0 +1,14 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "generic-pool": "^3.9.0",
+    "pending-xhr-puppeteer": "^2.3.3",
+    "puppeteer": "^20.7.3"
+  }
+}
